@@ -109,7 +109,9 @@ http://www.templatemo.com/tm-466-cafe-house
           <c:forEach var="category" items="${categoryList}">
           
             <div class="tm-popular-item">
+            <div style="justify-content: center; display: flex;">
               <img src="${category.image}" alt="Popular" align="top" height="150" width="150" class="tm-popular-item-img">
+             	</div>
               <div class="tm-popular-item-description">
                 <h3>${category.name}</h3><hr class="tm-popular-item-hr">
                 <p>${category.description}</p>

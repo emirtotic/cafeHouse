@@ -189,10 +189,10 @@ scratch. This page gets rid of all links and provides the needed markup only.
 										<thead>
 											<tr>
 											
-												<th style="width: 10%">ID</th>
-												<th style="width: 30%;">Name</th>
-												<th style="width: 30%;">Image</th>
-												<th style="width: 30%;">Description</th>
+												<th style="width: 100px;">ID</th>
+												<th style="width: 100px;">Name</th>
+												<th style="width: 100px;">Image</th>
+												<th style="width: 100px;">Description</th>
 												<th class="text-center">Actions</th>
 												
 											</tr>
